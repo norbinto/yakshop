@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "YakShop.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "D:/herd.xml 140"
+    }
+  }
+}

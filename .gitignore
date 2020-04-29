@@ -1,0 +1,28 @@
+bin
+obj
+.vscode
+.vs
+.DS_Store
+*.db
+
+# dependencies
+/client-app/node_modules
+/client-app/.pnp
+.pnp.js
+
+# testing
+/client-app/coverage
+
+# production
+/client-app/build
+
+# misc
+/client-app/.DS_Store
+/client-app/.env.local
+/client-app/.env.development.local
+/client-app/.env.test.local
+/client-app/.env.production.local
+
+/client-app/npm-debug.log*
+/client-app/yarn-debug.log*
+/client-app/yarn-error.log*
